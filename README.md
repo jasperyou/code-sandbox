@@ -1,6 +1,5 @@
-## CodeSandbox：我的编程实践与学习实验室
-
-##### *Br*ushing makes me happy. *S*elf-discipline makes me free
+## CodeSandbox
+这是一个集成了渐进式 LeetCode 题解、Java 并发编程实战以及前端基础学习的代码仓库。我将这里打造成一个个人编程沙箱，记录并分享我的学习旅程和代码实践。
 
 ---
 
